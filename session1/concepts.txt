@@ -1,0 +1,48 @@
+SESSION CURICULUM
+
+——>DEEPLEARNING
+——————>ANN
+————————>Act Func,Loss Func,Optimization Algos
+——————>CNN
+——————>GAN
+—————————>Descriminative models and Generative models and 1 usecase.
+——————>NLP(BASICS)
+——————>RNN
+——————>PROJECTS END TO END
+—————————>1.REVERSE IMAGE SEARCH ENGINE—>(CNN)
+—————————>2.CONSUMER COMPLAINT ANALYSIS—>(NLP)
+
+NLP CONCEPTS
+1.introduction
+2.text preprocessing and cleaning
+—removing the stops ,special character handling etc
+3.Tokenization techniques algorithms
+4.Modeling of nlp N-grams
+5.Text classificating and sentimental analysis—use case solving
+6.Named Entity Recognition system
+—Pos(parts of speech tagging)
+—Word embedding
+—syntax and parsing
+7.RNN
+— sequence to sequence modeling concepts
+—LSTM model(long short term memory)
+—Bidirectional LSTM
+—GRU(Gated Recurrent Units)
+—Attention mechanisms
+———self attention models
+———transformers models
+———encoder and decoder techniques
+———Machine Translation
+—BERT algorithms
+——Roberta ,alberta,Opensource hugging face models
+——Fine tuning the bert models and build a custom nlp applications
+—Hugging face models and build a rest apis on top of the open source model
+—Langchain introduction and building a custom chatbot 
+—6 to 7 usecases —ipynb notebook(practice
+—1 end to end project on top of mlops(aws tools)
+
+
+SATURDAY AND SUNDAY
+2 hours and 2 hours==4 hours*4 =16 hours*4 =64 hours
+total fees —35k
+
