@@ -12,6 +12,30 @@ SESSION CURICULUM
 —————————>1.REVERSE IMAGE SEARCH ENGINE—>(CNN)
 —————————>2.CONSUMER COMPLAINT ANALYSIS—>(NLP)
 
+--->Artificial Neural Networks (ANN):
+->Introduction to Neural Networks: Understanding the basics of neural networks, neuron structure, and activation functions.
+->Feedforward Neural Networks: Exploring the structure and working of feedforward neural networks, including input, hidden, and output layers.
+->Activation Functions: Studying different activation functions like sigmoid, tanh, ReLU, and their applications.
+->Loss Functions: Understanding various loss functions such as mean squared error, cross-entropy, and their role in training neural networks.
+->Optimization Algorithms: Exploring optimization algorithms like gradient descent, stochastic gradient descent, Adam, and their impact on model training.
+->Backpropagation: Understanding the backpropagation algorithm and its role in updating the weights of a neural network.
+->Regularization Techniques: Exploring regularization methods like L1 and L2 regularization, dropout, and their importance in preventing overfitting.
+->Hyperparameter Tuning: Techniques for tuning hyperparameters of a neural network to optimize model performance.
+Transfer Learning: Leveraging pre-trained models and fine-tuning them for specific tasks.
+
+
+---->Convolutional Neural Networks (CNN):
+->Introduction to CNNs: Understanding the basics of CNNs, convolutional layers, pooling layers, and fully connected layers.
+->Convolutional Layers: Exploring the concept of convolutional filters, feature maps, and their role in capturing spatial hierarchies.
+->Pooling Layers: Understanding pooling operations like max pooling and average pooling for downsampling and reducing spatial dimensions.
+->Stride and Padding: Exploring stride and padding options in CNNs and their impact on output dimensions.
+->CNN Architectures: Studying popular CNN architectures like LeNet, AlexNet, VGGNet, GoogLeNet (Inception), ResNet, and their characteristics.
+->Transfer Learning with CNNs: Utilizing pre-trained CNN models like VGG16, ResNet, and applying transfer learning for image recognition tasks.
+->Data Augmentation: Techniques for augmenting image data to increase the diversity and size of the training set.
+Visualizing CNNs: Methods for visualizing and interpreting the learned features and activations within CNNs.
+
+
+
 NLP CONCEPTS
 1.introduction
 2.text preprocessing and cleaning
